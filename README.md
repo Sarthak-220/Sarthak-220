@@ -20,6 +20,8 @@ AI & Data Science Engineer | Transforming Raw Data into Decisions
 
 (mailto:sarthak@email.com)
 
+https://sarthak-220.github.io/Sarthak-220/
+
 👨‍‍💻 About Me
 I am a second-year Artificial Intelligence & Data Science engineering student building intelligent systems at the intersection of machine learning, data science, and creative engineering. I love turning ideas into working systems with a focus on solving real-world problems.
 
