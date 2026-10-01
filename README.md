@@ -18,7 +18,7 @@ Hi there, I'm Sarthak Tambe! 👋
 AI & Data Science Engineer | Transforming Raw Data into Decisions
 
 
-(mailto:sarthak@email.com)
+(mailto:sarthaktambe880@gmail.com)
 
 https://sarthak-220.github.io/Sarthak-220/
 
